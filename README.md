@@ -3,4 +3,4 @@ Dashboard feito em Looker com programação em SQL através do BigQuery no Googl
 
 Relatório mostra métricas e indicadores coletadas no Airbnb no estado de RJ até 2021.
 
-[Link do projeto](https://lookerstudio.google.com/s/qFPpCZh-a1o)
+[CLIQUE AQUI PARA VER O DASHBOARD](https://lookerstudio.google.com/s/qFPpCZh-a1o)
